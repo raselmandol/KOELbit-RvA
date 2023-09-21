@@ -3,7 +3,7 @@
 
 # KOELbit RvA
 
-So, KOYELbit RvA (Ransomware vs Antivirus) is a project to test the detection and removing (anti-malware) Ransomware. 
+So, KOELbit RvA (Ransomware vs Antivirus) is a project to test the detection and removing (anti-malware) Ransomware. 
 This project is still under development and maintained by me. If you have any recommendation please create a new issue or pr or directly reach me here [raselm@duck.com](raselm@duck.com) 
 
 # About the project
