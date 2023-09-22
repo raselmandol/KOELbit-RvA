@@ -8,7 +8,7 @@ This project is still under development and maintained by me. If you have any re
 
 # About the project
 ## Tribute or something!
-Well, yes. Who? ikigai~
+Well, yes. Who? ikigai~ Kowaidesu~
 ## Why Encryption model?
 I have already mentioned, this RvA project is to test the Antivirus only. So no unethical reason here to make this.
 ## What about the Antivirus?
