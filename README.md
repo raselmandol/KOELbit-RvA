@@ -15,13 +15,13 @@ I have already mentioned, this RvA project is to test the Antivirus only. So no 
 Well, its first target to break the chain protection of any Antivirus, specially Windows Defender(though it's not still made for that).
 ## 
 
-![KOELbit RvA](https://raw.githubusercontent.com/raselmandol/KOELbit-RvA/main/assests/1.png)
+![KOELbit RvA](assets/1.png)
 
 ## Safety & Privacy
 You shouldn't test this on your local computer though before compiling you have to set the decryption password for security purpose, but still there is a chance that your files can be lost by compression broken chain. So I recommend to use or test it on Virtualbox. No data will be sent anywhere, you can review the codebase. Only encryption and decryption on local.
 
 
-![KOELbit-RvA](https://raw.githubusercontent.com/raselmandol/KOELbit-RvA/main/assests/ikigai-2.png)
+![KOELbit-RvA](assets/ikigai-2.png)
 
 
 ## Dev and contributing
@@ -63,7 +63,7 @@ Build the project: Once the packages are restored, you can build the project. Go
 For building with installer project, find the documentation [here](https://learn.microsoft.com/en-us/visualstudio/deployment/installer-projects-net-core?view=vs-2022).
 
 
-## Authors
+## Author
 
 - [@raselmandol](https://www.github.com/raselmandol)
 
