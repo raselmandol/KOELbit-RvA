@@ -3,8 +3,8 @@
 
 # KOELbit RvA
 
-So, KOELbit RvA (Ransomware vs Antivirus) is a project to test the detection and removing (anti-malware) Ransomware. 
-This project is still under development and maintained by me. If you have any recommendation please create a new issue or pr or directly reach me here [raselm@duck.com](malito:raselm@duck.com) 
+So, KOELbit RvA (Ransomware vs Antivirus) is a project to test the detection and removing (anti-malware) (Ransomware). 
+This project is still under development and maintained by me. If you have any recommendation, please create a new issue or pr or directly reach me here [raselm@duck.com](malito:raselm@duck.com) 
 
 # About the project
 ## Tribute or something!
@@ -12,13 +12,13 @@ Well, yes. Who? ikigai~ Kowaidesu~
 ## Why Encryption model?
 I have already mentioned, this RvA project is to test the Antivirus only. So no unethical reason here to make this.
 ## What about the Antivirus?
-Well, its first target to break the chain protection of any Antivirus, specially Windows Defender(though it's not still made for that).
+Well, its first target to break the chain protection of any Antivirus, specially Windows Defender(though it's under development).
 ## 
 
 ![KOELbit RvA](assets/1.png)
 
 ## Safety & Privacy
-You shouldn't test this on your local computer though before compiling you have to set the decryption password for security purpose, but still there is a chance that your files can be lost by compression broken chain. So I recommend to use or test it on Virtualbox. No data will be sent anywhere, you can review the codebase. Only encryption and decryption on local.
+You shouldn't test this on your local computer. Fefore compiling, you have to set the decryption password for security purpose, but still there is a chance that your files can be lost by compression broken chain. I recommend to use or test it on Virtualbox. No data will be sent anywhere, you can review the codebase. Only encryption and decryption on local.
 
 
 ![KOELbit-RvA](assets/ikigai-2.png)
@@ -28,7 +28,7 @@ You shouldn't test this on your local computer though before compiling you have 
 
 Built with [C#(.NET)](https://dotnet.microsoft.com/en-us/)
 
-Dev and compile works on Linux and Windows. You will need [dotnet Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework) to run this app.
+Dev and compile works on ~~Linux~~ and Windows. You will need [dotnet Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework) to run this app.
 
 Any contribution or suggestion is accepted. Feel free to create any report for issues or app crashes. You can also use the report link provided in the application menu to create a crash report or contact me through the link provided.
 Pull requests are accepted.
