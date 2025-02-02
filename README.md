@@ -1,5 +1,5 @@
 
-![Ubuntu GUI on Windows](https://raw.githubusercontent.com/raselmandol/KOELbit-RvA/main/assets/ikigai.png)
+![Ubuntu GUI on Windows](assets/ikigai.png)
 
 # KOELbit RvA
 
